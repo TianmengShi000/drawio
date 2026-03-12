@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="2">
   <diagram name="Page-1" id="Mw1Xho5oEv6rxPL6TQhl">
-    <mxGraphModel dx="4103" dy="3197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4754" dy="3616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-LSbQizOFiCcqa1-iOJ_-0" />
         <mxCell id="-LSbQizOFiCcqa1-iOJ_-1" parent="-LSbQizOFiCcqa1-iOJ_-0" />
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-0" parent="-LSbQizOFiCcqa1-iOJ_-1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=450;horizontalStack=0;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=middle;align=center;fontSize=24;fontStyle=1;whiteSpace=wrap;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; text-wrap-mode: wrap; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Kissena Bakery — Revenue Cycle (Order-to-Cash)&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="2550" width="2060" x="-830" y="-1020" as="geometry" />
+          <mxGeometry height="2550" width="2310" x="-740" y="-920" as="geometry" />
         </mxCell>
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-1" parent="_e8KnB8mN1nslZ0Rt7Bh-0" style="swimlane;startSize=50;horizontal=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;whiteSpace=wrap;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; text-align: start; text-wrap-mode: wrap; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;&lt;font style=&quot;font-size: 39px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 153));&quot;&gt;Sales Department&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="700" width="2060" y="450" as="geometry">
+          <mxGeometry height="700" width="2310" y="450" as="geometry">
             <mxRectangle height="30" width="820" y="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -65,7 +65,7 @@
           <mxGeometry height="190" width="160" x="1890" y="50" as="geometry" />
         </mxCell>
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-2" parent="_e8KnB8mN1nslZ0Rt7Bh-0" style="swimlane;startSize=50;horizontal=0;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;whiteSpace=wrap;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; text-align: start; text-wrap-mode: wrap; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;&lt;font style=&quot;font-size: 39px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 153));&quot;&gt;Warehouse Department&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="700" width="2060" y="1150" as="geometry" />
+          <mxGeometry height="700" width="2310" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-70" edge="1" parent="_e8KnB8mN1nslZ0Rt7Bh-2" source="_e8KnB8mN1nslZ0Rt7Bh-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_e8KnB8mN1nslZ0Rt7Bh-69">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry height="200" width="290" x="80" y="115" as="geometry" />
         </mxCell>
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-3" parent="_e8KnB8mN1nslZ0Rt7Bh-0" style="swimlane;startSize=50;horizontal=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;whiteSpace=wrap;fontStyle=1" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; text-align: start; text-wrap-mode: wrap; background-color: rgba(0, 245, 255, 0.08);&quot;&gt;&lt;font style=&quot;font-size: 37px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 153));&quot;&gt;Billing / Accounts Receivable&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="700" width="2060" y="1850" as="geometry" />
+          <mxGeometry height="700" width="2310" y="1850" as="geometry" />
         </mxCell>
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-65" edge="1" parent="_e8KnB8mN1nslZ0Rt7Bh-0" source="_e8KnB8mN1nslZ0Rt7Bh-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry">
