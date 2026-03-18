@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1" pages="2">
   <diagram name="Page-1" id="Mw1Xho5oEv6rxPL6TQhl">
-    <mxGraphModel dx="4754" dy="3616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4103" dy="3197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-LSbQizOFiCcqa1-iOJ_-0" />
         <mxCell id="-LSbQizOFiCcqa1-iOJ_-1" parent="-LSbQizOFiCcqa1-iOJ_-0" />
@@ -92,8 +92,8 @@
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-75" parent="_e8KnB8mN1nslZ0Rt7Bh-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 153));&quot;&gt;&lt;b style=&quot;&quot;&gt;No - Out Of Stock&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="1540" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-76" parent="_e8KnB8mN1nslZ0Rt7Bh-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;font style=&quot;font-size: 15px; color: light-dark(rgb(0, 0, 0), rgb(255, 51, 153));&quot;&gt;&lt;b style=&quot;&quot;&gt;Escalate to Manager — Back-Order or Cancel&lt;/b&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="100" width="100" x="1545" y="330" as="geometry" />
+        <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-76" parent="_e8KnB8mN1nslZ0Rt7Bh-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 153)); font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Escalate to Manager — Back-Order or Cancel&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="180" width="300" x="1460" y="330" as="geometry" />
         </mxCell>
         <mxCell id="_e8KnB8mN1nslZ0Rt7Bh-77" parent="_e8KnB8mN1nslZ0Rt7Bh-2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Goods Picked &amp;amp; Packed&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="110" width="200" x="1130" y="110" as="geometry" />
@@ -128,20 +128,20 @@
             <mxPoint x="1970" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QvvdCi4p5DTty68CcAIh-6" parent="-LSbQizOFiCcqa1-iOJ_-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;C&lt;font style=&quot;&quot;&gt;ontrol Activity CA-01: A credit check is performed before approving customer orders to ensure the customer has adequate creditworthiness. This control helps prevent sales to high-risk customers and reduces the likelihood of uncollectible accounts&lt;/font&gt;.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="250" width="340" x="1275" y="-330" as="geometry" />
+        <mxCell id="QvvdCi4p5DTty68CcAIh-6" parent="-LSbQizOFiCcqa1-iOJ_-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" value="&lt;p&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;i&gt;C&lt;font style=&quot;&quot;&gt;ontrol Activity CA-01: A credit check is performed before approving customer orders to ensure the customer has adequate creditworthiness. This control helps prevent sales to high-risk customers and reduces the likelihood of uncollectible accounts&lt;/font&gt;.&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="390" width="570" x="1780" y="-330" as="geometry" />
         </mxCell>
         <mxCell id="QvvdCi4p5DTty68CcAIh-8" edge="1" parent="-LSbQizOFiCcqa1-iOJ_-1" source="_e8KnB8mN1nslZ0Rt7Bh-26" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.75;exitY=0.812;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1220" y="-120" as="sourcePoint" />
-            <mxPoint x="1270" y="-170" as="targetPoint" />
+            <mxPoint x="1740" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ns0uYawT-MIIEmBFNnxP" name="Page-2">
-    <mxGraphModel dx="3253" dy="2097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,17 +192,16 @@
             <mxPoint x="1060" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gr2IFSjEzDf494VWfQu--33" edge="1" parent="gr2IFSjEzDf494VWfQu--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="830" y="165" as="sourcePoint" />
-            <mxPoint x="1000" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="M1fA1a8SMUXsoFUkwZE--2" edge="1" parent="gr2IFSjEzDf494VWfQu--19" source="gr2IFSjEzDf494VWfQu--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="M1fA1a8SMUXsoFUkwZE--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gr2IFSjEzDf494VWfQu--34" parent="gr2IFSjEzDf494VWfQu--19" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b&gt;Continued Page 2&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="200" width="290" x="80" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="fHeWnCljKZX8Q67dKO7Z-1" edge="1" parent="gr2IFSjEzDf494VWfQu--19" source="M1fA1a8SMUXsoFUkwZE--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="M1fA1a8SMUXsoFUkwZE--1" parent="gr2IFSjEzDf494VWfQu--19" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;Goods Dispatched to Customer&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="220" width="240" x="530" y="105" as="geometry" />
